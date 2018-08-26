@@ -28,10 +28,10 @@ class url(object):
     LINE_CHAN_QUERY_PATH            = '/CH4'
     LINE_SHOP_QUERY_PATH            = '/SHOP4'
 
-    UserAgent   = 'DESKTOP:MAC:10.10.2-YOSEMITE-x64(4.5.0)'
-    AppName     = 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0'
+    UserAgent   = 'DESKTOPWIN:DESKTOP:5.8.0\tHelloWorld\t11.2.5'
+    AppName     = 'DESKTOPWIN 5.8.0\tHelloWorld\t11.2.5'
     port        = 443
-    systemname  = 'UnSeeN157'
+    systemname  = 'geo-desktop'
     ip          = '8.8.8.8'
     _session = requests.session()
     Headers = {}
